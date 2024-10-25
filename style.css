@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.welcome {
+    background-color:yellow;
+}
+
+.singup {
+    border:0.5
+    border-color=red;
+    margin-left:23cm;
+    margin-bottom:1cm;
+}
+
+.box {
+
+    background-color: black;
+    height:500px;
+    width:200px;
+    color: wheat;
+}
+.home {
+
+}
+.service {
+    color:wheat;
+    margin-top: 0.5cm;
+}
