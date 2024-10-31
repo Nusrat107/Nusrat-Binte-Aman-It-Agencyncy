@@ -2,17 +2,10 @@
     margin:0;
     padding:0;
 }
-
 .welcome {
     background-color:yellow;
 }
 
-.singup {
-    border:0.5
-    border-color=red;
-    margin-left:23cm;
-    margin-bottom:1cm;
-}
 
 .box {
 
@@ -28,3 +21,18 @@
     color:wheat;
     margin-top: 0.5cm;
 }
+
+/* .log {
+    font-size: 15px;
+    font-family:Arial, sans-serif;
+    color:black;
+    background-color: #DAA520;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    margin-left: 860px;
+} */
