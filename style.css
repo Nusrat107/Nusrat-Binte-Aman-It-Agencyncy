@@ -1,9 +1,10 @@
 *{
     margin:0;
     padding:0;
+    text-decoration: none;
 }
 .welcome {
-    background-color:yellow;
+    background-color:#556B2F;
 }
 
 
@@ -36,3 +37,47 @@
     border-radius: 5px;
     margin-left: 860px;
 } */
+ .navi {
+    background: #A0522D ;
+    font-family:Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+ }
+ .navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ .logo a{
+    font-size: 35px;
+    font-weight: 600px;
+    color:white;
+   
+ }
+ .li{
+    list-style: none;
+    display: inline-block;
+ }
+ .li a{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+ }
+ .btn{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 7px;
+    width: 80px;
+    border: none;
+ }
+ .btn a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+   
+ }
+ 
