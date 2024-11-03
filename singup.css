@@ -13,6 +13,7 @@ body{
     background-color: white;
     margin: auto;
     margin-top: 50px;
+
     /* border: 1px solid black; */
     border-radius: 20px;
 }
@@ -29,10 +30,12 @@ body{
         height: 30px;
         width: 200px;
         padding-left: 10px;
-        display: inline;
+        /* display: inline; */
         margin: 47px;
+        margin-bottom:-50px;
         margin-top: 25px;
        margin-left: 10px;
+       margin-bottom:-50px;
        border-radius: 5px;
      
 }
@@ -40,9 +43,10 @@ body{
     height: 30px;
     width: 200px;
     padding-left: 10px;
-    display: inline;
+    /* display: inline; */
     margin: 47px;
     margin-top: 25px;
+    /* margin-bottom:-50px; */
    margin-left: 10px;
    border-radius: 5px;
 }
@@ -50,9 +54,10 @@ body{
     height: 30px;
     width: 200px;
     padding-left: 10px;
-    display: inline;
+    /* display: inline; */
     margin: 47px;
     margin-top: 5px;
+    /* margin-bottom:-50px; */
    margin-left: 10px;
    border-radius: 5px;
 }
