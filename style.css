@@ -4,7 +4,7 @@
     text-decoration: none;
 }
 .welcome {
-    background-color:#556B2F;
+    background-color:#f85606;
 }
 
 
@@ -42,8 +42,8 @@
     font-family:Calibri, 'Trebuchet MS', sans-serif;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding-top: 15px;
+    padding-bottom: 15px;
  }
  .navdiv{
     display: flex;
