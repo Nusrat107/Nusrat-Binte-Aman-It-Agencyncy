@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.welcome {
+    background-color:#f85606;
+    height: 30px;
+}
+.navi {
+    background: #A0522D ;
+    font-family:Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
+ .navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ .logo a{
+    font-size: 35px;
+    font-weight: 600px;
+    color:white;
+   
+ }
+ .li{
+    list-style: none;
+    display: inline-block;
+ }
+ .li a{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+ }
+ .btn{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 7px;
+    width: 80px;
+    border: none;
+ }
+ .btn a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+   
+ }
+
+ .img {
+   height: 300px;
+   width: 95%;
+ }
+ .text{
+   margin-left: 60px;
+   margin-top: 15px;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+.box-1{
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1.5px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+    height: 300px;
+    background-color: #FF8C00;
+    background-image: url( image/digital\ marketing\ agency.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+  }
+  .box-2{
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1.5px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+    height: 300px;
+    background-color: #FF8C00;
+    background-image: url("image/data\ entry.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+  }
+  .box-3{
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1.5px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+    height: 300px;
+    background-color: #FF8C00;
+    background-image: url("image/Graphic-Design-Perth.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+  }
+  .box-4{
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1.5px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+    height: 300px;
+    background-color: #FF8C00;
+    background-image: url("image/After01.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+  }
+ .box-5{
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1.5px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+    height: 300px;
+    background-color: #FF8C00;
+    background-image: url("image/asian-software-developers-working-on-600nw-2470769829.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+ }
+ .box-6{
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1.5px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+    height: 300px;
+    background-color: #FF8C00;
+    background-image: url("image/istockphoto-1385957068-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+ }
+ .box-7{
+    margin-top: 20px;
+    margin-left: 20px;
+    border:1.5px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+    height: 300px;
+    background-color: #FF8C00;
+    background-image: url("image/360_F_503865139_BX4Vsaan8wEdQ8paxciko4qG69TAUHBS.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+ }
