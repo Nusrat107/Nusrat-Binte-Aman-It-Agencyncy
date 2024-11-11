@@ -62,130 +62,90 @@
    font-size: 20px;
    font-family: Arial, Helvetica, sans-serif;
  }
- 
-.box-1{
-    margin-top: 20px;
-    margin-left: 20px;
-    padding-left: -30px;
-    /* border:1.5px black solid; */
-    border-radius: 10px;
-    float: left;
-    width: 32%;
-    height: 300px;
-    background-color: #FF8C00;
-    background-image: url( image/digital\ marketing\ agency.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-  }
-  .box-2{
-    margin-top: 20px;
-    margin-left: 20px;
-    /* border:1.5px black solid; */
-    border-radius: 10px;
-    float: left;
-    width: 32%;
-    height: 300px;
-    background-color: #FF8C00;
-    background-image: url("image/data\ entry.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-  }
-  .box-3{
-    margin-top: 20px;
-    margin-left: 20px;
-    /* border:1.5px black solid; */
-    border-radius: 10px;
-    float: left;
-    width: 32%;
-    height: 300px;
-    background-color: #FF8C00;
-    background-image: url("image/Graphic-Design-Perth.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-  }
-  .box-4{
-    margin-top: 20px;
-    margin-left: 20px;
-    /* border:1.5px black solid; */
-    border-radius: 10px;
-    float: left;
-    width: 32%;
-    height: 300px;
-    background-color: #FF8C00;
-    background-image: url("image/After01.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-  }
- .box-5{
-    margin-top: 20px;
-    margin-left: 20px;
-    /* border:1.5px black solid; */
-    border-radius: 10px;
-    float: left;
-    width: 32%;
-    height: 300px;
-    background-color: #FF8C00;
-    background-image: url("image/asian-software-developers-working-on-600nw-2470769829.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
- }
- .box-6{
-    margin-top: 20px;
-    margin-left: 20px;
-    /* border:1.5px black solid; */
-    border-radius: 10px;
-    float: left;
-    width: 32%;
-    height: 300px;
-    background-color: #FF8C00;
-    background-image: url("image/istockphoto-1385957068-612x612.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
- }
- .box-7{
-    margin-top: 20px;
-    margin-left: 20px;
-    /* border:1.5px black solid; */
-    border-radius: 10px;
-    float: left;
-    width: 32%;
-    height: 300px;
-    background-color: #FF8C00;
-    background-image: url("image/360_F_503865139_BX4Vsaan8wEdQ8paxciko4qG69TAUHBS.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
- }
- .div-1 {
-   background-color: #FF8C00;
-   padding-left: 160px;
-   padding-bottom: 10px;
-   /* font-size: 35px; */
-   margin-top: -15px;
-   font-size: 75px;
+h1 {
+   margin-left: 500px;
+   margin-top: 30px;
+   font-size: 40px;
    font-family: sans-serif;
- }
- .div-2{
-   background-color: #FF8C00;
-   padding-left: 160px;
-   padding-bottom: 10px;
-   /* font-size: 35px; */
-   margin-top: -15px;
-   font-size: 35px;
- }
+} 
+.box {
+   float: left;
+   height: 300px;
+   width: 30%;
+   background-color: #A0522D;
+   color: white;
+   margin-left: 30px;
+   margin-top: 20px;
+   padding-bottom: 30px;
+}
+.ptag-1 {
+   font-size: 30px;
+   margin-left: 70px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-2 {
+   font-size: 30px;
+   margin-left: 100px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-3 {
+   font-size: 30px;
+   margin-left: 110px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-4 {
+   font-size: 30px;
+   margin-left: 130px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-5 {
+   font-size: 30px;
+   margin-left: 130px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-6 {
+   font-size: 30px;
+   margin-left: 180px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-7 {
+   font-size: 30px;
+   margin-left: 100px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-8 {
+   font-size: 30px;
+   margin-left: 140px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.ptag-9 {
+   font-size: 30px;
+   margin-left: 120px;
+   margin-top: -5px;
+   padding-bottom: 5px;
+}
+.btn-1 {
+   margin-left: 140px;
+   margin-top: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color: greenyellow;
+   border: none;
+   border-radius: 3px;
+}
+a {
+   color: #f85606;
+}
  .footer{
    margin-top: 10px;
    height: 300px;
