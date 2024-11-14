@@ -111,3 +111,6 @@ h1{
    margin-left: 110px;
    font-size: 40px;
 }
+.dropdown_manu{
+   display: none;
+}
